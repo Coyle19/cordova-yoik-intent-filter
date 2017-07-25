@@ -1,0 +1,17 @@
+{
+  "name": "cordova-yoik-intent-filter",
+  "version": "0.0.2",
+  "description": "Android Listen to url Intent ============",
+  "cordova": {
+    "id": "net.yoik.cordova.plugins.intentfilter",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "intent",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT"
+}
